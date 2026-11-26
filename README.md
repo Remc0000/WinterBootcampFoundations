@@ -16,11 +16,12 @@ The installer will:
 
 
 ## Open copilot
-type:
+Login to copilot:
 ```copilot
 /login
 ```
 
+Install all is needed for the the Winter Bootcamps:
 ```copilot
 execute https://raw.githubusercontent.com/Remc0000/WinterBootcampFoundations/refs/heads/main/copilot%20prompt.txt
 ```
