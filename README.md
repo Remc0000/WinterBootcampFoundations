@@ -13,3 +13,15 @@ The installer will:
 - Install/update GitHub Copilot CLI
 - Open GitHub Copilot CLI
 - Use `C:\WinterBootcamp` as the working directory
+
+
+## Open copilot
+type:
+```copilot
+/login
+```
+
+```copilot
+execute https://github.com/Remc0000/WinterBootcampFoundations/edit/main/README.md
+```
+
