@@ -22,6 +22,6 @@ type:
 ```
 
 ```copilot
-execute https://github.com/Remc0000/WinterBootcampFoundations/edit/main/README.md
+execute https://raw.githubusercontent.com/Remc0000/WinterBootcampFoundations/refs/heads/main/copilot%20prompt.txt
 ```
 
