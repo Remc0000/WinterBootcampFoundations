@@ -1,9 +1,9 @@
 # WinterBootcampFoundations
 
 When you have not installed Github Copilot CLI or Github Copilot App:
-Create a working directory which you want to give to Copilot
-From there start a command box
-and execute ./installCopilot.psq
+<code>
+mkdir C:\WinterBootcamp -Force; cd C:\WinterBootcamp; irm "https://raw.githubusercontent.com/Remc0000/WinterBootcampFoundations/refs/heads/main/installCopilot.ps1" | iex
+</code>
 
 This will install Copilot and open it as well.
 
